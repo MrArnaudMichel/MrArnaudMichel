@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrArnaudMichel
-- 👀 I’m interested in python
+- 👀 I’m interested by python
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Projet Pokemon
 - 📫 How to reach me mail : arnaudd.michel@gmail.com
