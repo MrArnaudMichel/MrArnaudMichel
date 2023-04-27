@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrArnaudMichel
 - 👀 I’m developer in C, C#, Java and python
 - 🌱 I’m currently learning Windows Form App .NET
-- 💞️ I’m looking to collaborate on Projet Pokemon
 - 📫 How to reach me mail : arnaudd.michel@gmail.com
 
 <!---
