@@ -16,8 +16,8 @@
   - Unity
 - 📫 How to reach me:
   - [Mail](mailto:contact@arnaudmichel.fr)
-  - [Website](https://arnaudmichel.fr)
   - [GitHub](https://github.com/MrArnaudMichel)
+  - [GitLab](https://git.unistra.fr/arnaudmichel)
 
 <!---
 MrArnaudMichel/MrArnaudMichel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
