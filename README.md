@@ -17,8 +17,9 @@
         If you want to know more about me, you can visit my <a href="https://www.arnaudmichel.fr">website</a> or my <a href="https://www.linkedin.com/in/arnaud-michel-1b3b3b1b3/">LinkedIn</a> profile.
     </strong></p>
 </div>
-
-<img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")/>
+<div align="center">
+    <img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+</div>
 
 ### 📌 Programming Languages
 ![shields](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
