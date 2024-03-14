@@ -18,7 +18,7 @@
     </strong></p>
 </div>
 
-![snake gif](https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake.svg)
 
 ### 📌 Programming Languages
 ![shields](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
