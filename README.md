@@ -18,7 +18,7 @@
     </strong></p>
 </div>
 
-<img src="https://raw.githubusercontent.com/MrArnaudMichel/MrArnaudMichel/output/snake.svg" alt="snake"/>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ### 📌 Programming Languages
 ![shields](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
