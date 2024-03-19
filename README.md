@@ -14,7 +14,7 @@
 <div align="center">
     <h2>📫 Contact Me</h2>
     <p align="center"><strong>
-        If you want to know more about me, you can visit my <a href="https://www.arnaudmichel.fr">website</a> or my <a href="https://www.linkedin.com/in/arnaud-michel-1b3b3b1b3/">LinkedIn</a> profile.
+        If you want to know more about me, you can visit my <a href="https://arnaudmichel.fr">website</a> or my <a href="https://www.linkedin.com/in/arnaud-michel-1b3b3b1b3/">LinkedIn</a> profile.
     </strong></p>
 </div>
 <div align="center">
