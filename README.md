@@ -11,15 +11,48 @@
     </i>
 </p>
 
+---
+
+## ☎️ Let's Connect!
+Feel free to reach out for collaborations or just a good chat:
+
+- 📧 Email: leokiefner.pro@gmail.com
+- 🔗 Website: [arnaudmichel.fr](https://arnaudmichel.fr)
+- 📱 LinkedIn: [Arnaud Michel](https://www.linkedin.com/in/arnaud-michel-1b1b3b1b3/)
+
+## 🌱 A peek into my world
+
+- 🥁 Music, I have a passion for music and I play the drums. I play in a band and I love to compose music. 
+- 📚 Learning, I love to learn new things and I'm always looking for new opportunities to learn and grow. 
+- 🏸 Sports, I love to play sports and I'm a big fan of badminton. I play badminton regularly. 
+- 🎮 Gaming, I'm a gamer and I love to play video games. I'm a big fan of the Assassin's Creed series.
+
+## 🚀 Actual Project
+
+
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on [AIctron](https://github.com/Group-3-Charlie/AIctron)
+
+
+- 🤖 AIctron is a project that make a AI with user dataset and make a prediction with it.
+
+
+- 👥 I'm working with a team of 3 people.
+
+
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
+
+
+</td><td valign="top" width="50%">
+
 <div align="center">
-    <h2>📫 Contact Me</h2>
-    <p align="center"><strong>
-        If you want to know more about me, you can visit my <a href="https://arnaudmichel.fr">website</a> or my <a href="https://www.linkedin.com/in/arnaud-michel-1b3b3b1b3/">LinkedIn</a> profile.
-    </strong></p>
-</div>
-<div align="center">
-    <img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
-</div>
+<img src="https://arnaudmichel.fr/images/projects/AIctron0.png" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
 
 ### 📌 Programming Languages
 ![shields](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -66,6 +99,10 @@
 ![shields](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+</div>
 
 ![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrArnaudMichel&theme=github_dark)
 ![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrArnaudMichel&theme=github_dark)
