@@ -22,7 +22,7 @@ Feel free to reach out for collaborations or just a good chat:
 
 ## 🌱 A peek into my world
 
-- 🥁 Music, I have a passion for music and I play the drums. I play in a band and I love to compose music. 
+- 🥁 Music, I have a passion for music and I play the drums. I play in a harmony and I love to compose music. 
 - 📚 Learning, I love to learn new things and I'm always looking for new opportunities to learn and grow. 
 - 🏸 Sports, I love to play sports and I'm a big fan of badminton. I play badminton regularly. 
 - 🎮 Gaming, I'm a gamer and I love to play video games. I'm a big fan of the Assassin's Creed series.
