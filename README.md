@@ -16,7 +16,7 @@
 ## ☎️ Let's Connect!
 Feel free to reach out for collaborations or just a good chat:
 
-- 📧 Email: leokiefner.pro@gmail.com
+- 📧 Email: [arnaudd.michel@gmail.com]("mailto:arnaudd.michel@gmail.ocom")
 - 🔗 Website: [arnaudmichel.fr](https://arnaudmichel.fr)
 - 📱 LinkedIn: [Arnaud Michel](https://www.linkedin.com/in/arnaud-michel-1b1b3b1b3/)
 
