@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi ! I'm Arnaud Michel
+    💫 Hi ! I'm Arnaud Michel
     <img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/main/assets/images/Hello.gif" width="28px" alt="👋">
 </h1>
 
