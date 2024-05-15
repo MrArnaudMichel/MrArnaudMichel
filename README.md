@@ -45,7 +45,7 @@ Feel free to reach out for collaborations or just a good chat:
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://arnaudmichel.fr/images/projects/AIctron0.png" align="center" style="width: 100%" />
+<img src="assets/images/aictron.png" alt="aictronimage"/>
 </div>  
 
 
