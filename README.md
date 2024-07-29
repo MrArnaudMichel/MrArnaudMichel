@@ -104,3 +104,4 @@ Feel free to reach out for collaborations or just a good chat:
 
 ![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrArnaudMichel&theme=github_dark)
 ![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrArnaudMichel&theme=github_dark)
+![Arnaud's GitHib stats](https://github-readme-stats.vercel.app/api?username=mrarnaudmichel&show_icons=true&theme=transparent)
