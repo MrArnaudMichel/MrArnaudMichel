@@ -33,19 +33,17 @@ Feel free to reach out for collaboration or just a good chat:
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [AIctron](https://github.com/Group-3-Charlie/AIctron)
+- 🔭 I’m currently working on [Launcher Studio](https://github.com/MrArnaudMichel/LaucherStudio)
 
 
-- 🤖 AIctron is a project that makes an AI with user dataset and makes a prediction with it.
+- 🖥️ **Launcher Studio** is a GTK4 desktop application for creating and managing `.desktop` files on Linux. This intuitive tool lets you easily create custom launchers for your favorite applications, ensuring seamless integration with your desktop environment.
 
-
-- 👥 I'm working with a team of 3 people.
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="assets/images/aictron.png" alt="aictronimage"/>
+<img src="assets/images/launcherstudio.png" alt="launcherstudio"/>
 </div>  
 
 
