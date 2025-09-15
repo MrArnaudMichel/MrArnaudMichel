@@ -33,7 +33,7 @@ Feel free to reach out for collaboration or just a good chat:
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Launcher Studio](https://github.com/MrArnaudMichel/LaucherStudio)
+- 🔭 I’m currently working on [Launcher Studio](https://github.com/MrArnaudMichel/LauncherStudio)
 
 
 - 🖥️ **Launcher Studio** is a GTK4 desktop application for creating and managing `.desktop` files on Linux. This intuitive tool lets you easily create custom launchers for your favorite applications, ensuring seamless integration with your desktop environment.
