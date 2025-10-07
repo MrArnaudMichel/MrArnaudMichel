@@ -16,7 +16,7 @@
 ## ☎️ Let's Connect!
 Feel free to reach out for collaboration or just a good chat:
 
-- 📧 Email: [contact@arnaudmichel.fr]("mailto:contact@arnaudmichel.fr")
+- 📧 Email: [contact@arnaudmichel.fr](mailto:contact@arnaudmichel.fr)
 - 🔗 Website: [arnaudmichel.fr](https://arnaudmichel.fr)
 - 📱 LinkedIn: [Arnaud Michel](https://www.linkedin.com/in/arnaud-michel-1b1b3b1b3/)
 
